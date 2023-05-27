@@ -1,0 +1,274 @@
+{
+  "start": "2023-05-27T13:05:04.322Z",
+  "end": "2023-05-27T13:08:40.072Z",
+  "capabilities": {
+    "platform": "LINUX",
+    "webStorageEnabled": false,
+    "takesScreenshot": true,
+    "javascriptEnabled": true,
+    "databaseEnabled": false,
+    "networkConnectionEnabled": true,
+    "locationContextEnabled": false,
+    "warnings": {},
+    "desired": {
+      "platformName": "Android",
+      "deviceName": "Devendra",
+      "automationName": "UiAutomator2",
+      "app": "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\App\\Android\\khan-academy-7-9-1.apk",
+      "autoGrantPermission": true
+    },
+    "platformName": "Android",
+    "deviceName": "ZD2222VH22",
+    "automationName": "UiAutomator2",
+    "app": "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\App\\Android\\khan-academy-7-9-1.apk",
+    "autoGrantPermission": true,
+    "deviceUDID": "ZD2222VH22",
+    "appPackage": "org.khanacademy.android",
+    "deviceApiLevel": 31,
+    "platformVersion": "12",
+    "deviceScreenSize": "1080x2460",
+    "deviceScreenDensity": 400,
+    "deviceModel": "moto g(60)",
+    "deviceManufacturer": "motorola",
+    "pixelRatio": 2.5,
+    "statBarHeight": 115,
+    "viewportRect": {
+      "left": 0,
+      "top": 115,
+      "width": 1080,
+      "height": 2170
+    },
+    "sessionId": "6afdf8be-772f-4518-ab68-63c9d933064f"
+  },
+  "host": "127.0.0.1",
+  "port": 4723,
+  "baseUrl": "http://localhost",
+  "framework": "mocha",
+  "duration": 215750,
+  "suites": [
+    {
+      "title": "Khan Academy Mobile App Testing of Android",
+      "duration": 212518,
+      "start": "2023-05-27T13:05:04.327Z",
+      "end": "2023-05-27T13:08:36.845Z",
+      "tests": [
+        {
+          "title": "1. Go to Computer Science Section",
+          "start": "2023-05-27T13:05:04.327Z",
+          "end": "2023-05-27T13:05:24.625Z",
+          "duration": 20298,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192710420.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192710908.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192711887.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192712314.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192713611.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192714096.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192715196.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192721385.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192722139.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192722633.jpeg"
+          ]
+        },
+        {
+          "title": "2. Go To Cryptography and Bookmark Three Topics",
+          "start": "2023-05-27T13:05:24.632Z",
+          "end": "2023-05-27T13:05:50.400Z",
+          "duration": 25768,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192725166.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192728966.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192729508.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192731119.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192731637.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192737697.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192738152.jpeg"
+          ]
+        },
+        {
+          "title": "3. Go To Information Theory And Bookmark Modern IT",
+          "start": "2023-05-27T13:05:50.403Z",
+          "end": "2023-05-27T13:05:58.955Z",
+          "duration": 8552,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192750973.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192751472.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192752042.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192753476.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192754016.jpeg"
+          ]
+        },
+        {
+          "title": "4. Open Bookmark and Verify Bookmark List",
+          "start": "2023-05-27T13:05:58.957Z",
+          "end": "2023-05-27T13:06:05.749Z",
+          "duration": 6792,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192759499.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192760037.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192760617.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192761915.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192762416.jpeg"
+          ]
+        },
+        {
+          "title": "5. Clear All Bookmarks",
+          "start": "2023-05-27T13:06:05.752Z",
+          "end": "2023-05-27T13:06:16.563Z",
+          "duration": 10811,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192766322.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192769439.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192769962.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192770756.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192771222.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192771933.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192772488.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192773367.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192773954.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192774704.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192775226.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192776023.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192776549.jpeg"
+          ]
+        },
+        {
+          "title": "6. Go To \"Life Skills\" And Play Video",
+          "start": "2023-05-27T13:06:16.564Z",
+          "end": "2023-05-27T13:06:30.792Z",
+          "duration": 14228,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192777077.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192777709.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192778239.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192778778.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192779253.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192779948.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192780430.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192781183.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192781634.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192783523.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192784014.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192786234.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192786785.jpeg"
+          ]
+        },
+        {
+          "title": "7. Verify Last Seen Topic",
+          "start": "2023-05-27T13:06:30.820Z",
+          "end": "2023-05-27T13:06:49.098Z",
+          "duration": 18278,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192803804.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192804991.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192806106.jpeg"
+          ]
+        },
+        {
+          "title": "8. Explore Arts and humanities ",
+          "start": "2023-05-27T13:06:49.103Z",
+          "end": "2023-05-27T13:06:58.108Z",
+          "duration": 9005,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192810262.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192812843.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192813383.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192813990.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192814488.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192815232.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192815774.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192817190.jpeg"
+          ]
+        },
+        {
+          "title": "9. Play Video & Share Message",
+          "start": "2023-05-27T13:06:58.113Z",
+          "end": "2023-05-27T13:08:05.638Z",
+          "duration": 67525,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192818321.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192819435.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192820121.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192820655.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192821228.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192821705.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192822438.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192822881.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192826879.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192827335.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192835897.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192836418.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192837406.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192838477.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192872780.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192873813.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192875404.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192876364.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192882251.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192884643.jpeg"
+          ]
+        },
+        {
+          "title": "10. Changing App Icon ",
+          "start": "2023-05-27T13:08:05.646Z",
+          "end": "2023-05-27T13:08:32.329Z",
+          "duration": 26683,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192886597.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192893870.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192894397.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192895219.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192895790.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192896550.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192897064.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192897757.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192898297.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192899783.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192900308.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192901037.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192901571.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192902244.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192903063.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192908925.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192909496.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192910360.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192910862.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192911638.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192912177.jpeg"
+          ]
+        },
+        {
+          "title": "11. Close App",
+          "start": "2023-05-27T13:08:32.331Z",
+          "end": "2023-05-27T13:08:36.841Z",
+          "duration": 4510,
+          "state": "passed",
+          "screenshots": [
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192912838.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192913373.jpeg",
+            "E:\\Projects\\Mobile Testing Project\\Mobile-Testing-Webdriver_IO\\reports\\file-1685192914285.jpeg"
+          ]
+        }
+      ],
+      "hooks": []
+    }
+  ],
+  "specs": [
+    "file:///E:/Projects/Mobile%20Testing%20Project/Mobile-Testing-Webdriver_IO/test/Specs/KhanAppTest.js"
+  ],
+  "state": {
+    "passed": 11,
+    "failed": 0,
+    "skipped": 0
+  }
+}
